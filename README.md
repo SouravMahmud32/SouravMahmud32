@@ -31,3 +31,9 @@
 - 💬 Ask me about JavaScript. 
 - 📫 How to reach me: souravmahmud32@gmail.com 
 - ⚡ Fun fact: I absolutely love Tech.
+
+
+### Connect with me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SouravMahmud32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourav-mahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/souravmahmudd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20956723/sourav-mahmud)  
+
